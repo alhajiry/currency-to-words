@@ -1,4 +1,4 @@
-<h1><Currency Converter</h1>
+<h1>Currency Converter</h1>
 
 <p>This app was created with <strong>Node.js</strong> and <strong>prompt-sync</strong> NPM module</p>
 
